@@ -1,5 +1,4 @@
- 👋 I’m Binzid.
-
+ <h1><center>👋 I’m Binzid. </center></h1>
 
 
 
