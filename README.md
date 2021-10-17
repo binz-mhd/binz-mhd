@@ -1,4 +1,4 @@
- <h1><b><u><center>👋 I’m Binzid. </center></u></h1>
+ <h1>👋 I’m Binzid.</h1>
 
 
 
